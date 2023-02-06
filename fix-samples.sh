@@ -6,5 +6,5 @@
  mv animals/Monkies.txt animals/Monkeys.txt 
  echo Monkeys > animals/Monkeys.txt 
  mv movies/Germany.txt countries/
- mv countries/.apes.txt animals/gh 
+ mv countries/.apes.txt animals/
  cd -

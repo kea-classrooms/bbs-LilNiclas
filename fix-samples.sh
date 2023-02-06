@@ -1,6 +1,6 @@
  #!/bin/bash
  
- cd $CODESPACE_VSCODE_FOLDER/samples/
+ cd samples/
  mv animals/countries/ .
  mv countries/movies/ .
  mv animals/Monkies.txt animals/Monkeys.txt 
